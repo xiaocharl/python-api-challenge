@@ -1,0 +1,5 @@
+observations
+1.from the linear regression we can find that Max Temp and Latitude are highly related in both hemisphere.
+2.from the linear regression we can find that cloudness and latitude do not have good linear coorelation in both hemisphere.
+3.from the linear regression we can find that humidity and latitude do not have good linear coorelation in both hemisphere.
+4.from the linear regression we can find that wind speen and latitude do not have good linear coorelation in both hemisphere.
